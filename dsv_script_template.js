@@ -1,24 +1,24 @@
 //
 // ============================================================================
 // Copyright: 
-// 			This source is subject to the Designveloper JSC (designveloper.com) 
-//        	All using or modify must have permission from us.
+//          This source is subject to the Designveloper JSC (designveloper.com) 
+//          All using or modify must have permission from us.
 //
-// Name:	DSVScriptTemplate
+// Name:    DSVScriptTemplate
 // Purpose: 	
-//			Describe the purpose of the script [short version]
+//          Describe the purpose of the script [short version]
 // Class:        
-//			one ; two ; three
+//          one ; two ; three
 // Functions:        
-//			one ; two ; three
+//          one ; two ; three
 // Called From:       
-//			(script) any
+//          (script) any
 // Author:            
-//			Ha Truong (truongvieth@designveloper.com)
+//          Ha Truong (truongvieth@designveloper.com)
 // Notes:             
-//			Additional information [long version]  
+//          Additional information [long version]  
 // Changelog:
-//			05/27/2014 - Ha Truong - Init first revision.
+//          05/27/2014 - Ha Truong - Init first revision.
 // ============================================================================
 //
 
@@ -97,8 +97,8 @@ var adminUser = db.query('SELECT * FROM users ...');
  *            none
  * REVISIONS:
  *            05/23/14 - Initial release
- *            05/27/14 - Modified to fix issue
- *            05/31/10 - No returning Boolean result
+ *            05/25/14 - Modified to fix issue
+ *            05/27/14 - No returning Boolean result
  * -------------------------------------------------------------------
  */
 function customFunctionName(request, response) {
