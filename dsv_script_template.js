@@ -24,10 +24,10 @@
 
 
 // Coding style rule:
-//	80 characters per line
+//  80 characters per line
 //  Use 2 spaces not tab
 //  Write small functions (<= 15 lines)
-//	Use slashes for comments
+//  Use slashes for comments
 
 
 //	Use single quotes: 
@@ -124,7 +124,7 @@ function customFunctionName(request, response) {
  *            @parameter2 (num) Numerical value
  * METHODS:
  *            one
-			  two
+ *            two
  * DEPENDENCIES:
  *            none
  * PURPOSE:
