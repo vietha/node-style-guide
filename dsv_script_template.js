@@ -9,7 +9,7 @@
 //			Describe the purpose of the script [short version]
 // Class:        
 //			one ; two ; three
-// Methods:        
+// Functions:        
 //			one ; two ; three
 // Called From:       
 //			(script) any
